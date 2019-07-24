@@ -1,3 +1,5 @@
+#TODO: PLEASE REFACTOR ALL THIS SHIT
+
 #include <SFML/Graphics.hpp>
 #include <SFML/Window.hpp>
 #include "tileMap.hpp"
